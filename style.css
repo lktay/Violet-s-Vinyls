@@ -1,0 +1,47 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+* {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  color: white;
+  font-size: 25px;
+}
+body {
+  background-color: black;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+h1 {
+  font-size: 100px;
+  background-image: url("img/Records.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+h2 {
+  background-color: #ef8354;
+  text-align: center;
+}
+h5 {
+  background-color: #0e7c7b;
+  text-align: center;
+}
+h6 {
+  background-color: #9c528b;
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  text-align: left;
+}
+.bold {
+  font-weight: bold;
+  font-size: 16px;
+  padding: 0%;
+}
+.link {
+  color: #ef8354;
+  font-size: 16px;
+  padding: 0%;
+}
+.link:hover {
+  color: #9c528b;
+}
